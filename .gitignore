@@ -1,0 +1,7 @@
+
+application.yml
+
+/build
+/.gradle
+
+/frontend/node_modules
